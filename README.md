@@ -32,4 +32,7 @@ yeah, that's a brilliant video, `music + visual + narration`.
 https://www.youtube.com/watch?v=0fKBhvDjuy0
 
 ### Typology
-`moneo_on_tipology.pdf` is a bit difficult to process, it's written in some tail recursive way that never seems to really reach a conclusion and then finally does resolve to an answer. It's serious and abstract, and i'm not sure I understood it.
+`moneo_on_tipology.pdf` is a bit difficult to process, it's written in some tail recursive way that never seems to really reach a conclusion and then finally does resolve to an answer. It's serious and abstract, and i'm not sure I understood it. 
+
+### Design QA with Eames
+https://www.youtube.com/watch?v=z8qs5-BDXNU - delightful.
