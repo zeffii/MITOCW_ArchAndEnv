@@ -15,7 +15,7 @@ The excerpt from this book is how I wish all books on abstract material were. Co
 According to chapter 6 from google books of this book, the core is about breaking the rhythm. A contemporary example is the [Federal Courthouse in Austin Texas](http://en.wikipedia.org/wiki/Austin,_Texas#mediaviewer/File:Federal_Courthouse,_Austin,_TX_IMG_6339.JPG)
 
 **Alvar Aalto**
-Neat buildings, reminds me of Sant'ELia
+Neat buildings, reminds me of Sant'Elia
 
 ### Rhythm of Venice
 In relation to the rhythm of venice I found [this sourced jan 9 2014](http://ocw.mit.edu/courses/architecture/4-111-introduction-to-architecture-environmental-design-spring-2014/readings/) to be interesting, it shows A A B A A | A B A patterns. I've never looked at facades that way before, but now it's pointed out -- sure, 
