@@ -14,7 +14,7 @@ The excerpt from this book is how I wish all books on abstract material were. Co
 **Aage Rafn** 
 According to chapter 6 from google books of this book, the core is about breaking the rhythm. A contemporary example is the [Federal Courthouse in Austin Texas](http://en.wikipedia.org/wiki/Austin,_Texas#mediaviewer/File:Federal_Courthouse,_Austin,_TX_IMG_6339.JPG)
 
-**Alvar Alto**
+**Alvar Aalto**
 Neat buildings, reminds me of Sant'ELia
 
 ### Rhythm of Venice
