@@ -20,7 +20,7 @@ Neat buildings, reminds me of Sant'Elia
 **Gunmar Asplund**
 Ratios and Scale, thin and wide
 
-**Ib Lunding** cement, walls textured by the grain of the plans of wood used to form their shape when poured.
+**Ib Lunding** cement, walls textured by the grain of the planks of wood used to form their shape when poured.
 
 ### Rhythm of Venice
 In relation to the rhythm of venice I found [this sourced jan 9 2014](http://ocw.mit.edu/courses/architecture/4-111-introduction-to-architecture-environmental-design-spring-2014/readings/) to be interesting, it shows A A B A A | A B A patterns. I've never looked at facades that way before, but now it's pointed out -- sure, 
