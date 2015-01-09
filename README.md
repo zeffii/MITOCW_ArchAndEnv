@@ -17,6 +17,9 @@ According to chapter 6 from google books of this book, the core is about breakin
 **Alvar Aalto**
 Neat buildings, reminds me of Sant'Elia
 
+**Gunmar Asplund**
+Ratios and Scale, thin and wide
+
 ### Rhythm of Venice
 In relation to the rhythm of venice I found [this sourced jan 9 2014](http://ocw.mit.edu/courses/architecture/4-111-introduction-to-architecture-environmental-design-spring-2014/readings/) to be interesting, it shows A A B A A | A B A patterns. I've never looked at facades that way before, but now it's pointed out -- sure, 
 
