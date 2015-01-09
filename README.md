@@ -35,5 +35,5 @@ https://www.youtube.com/watch?v=0fKBhvDjuy0
 `moneo_on_tipology.pdf` is a bit difficult to process, it's written in some tail recursive way that never seems to really reach a conclusion and then finally does resolve to an answer. It's serious and abstract, and i'm not sure I understood it. 
 
 ### Design QA with Eames
-https://www.youtube.com/watch?v=z8qs5-BDXNU - delightful.
+https://www.youtube.com/watch?v=z8qs5-BDXNU - delightful.  
 Also https://www.youtube.com/watch?v=hv7ipQdUrYk (House) is pleasant
