@@ -7,6 +7,10 @@ If you don't find this document (ie my notes) to be cohesive, deal with it :) *p
 
 The reading list has titles, i'll focus on what can be read for free and legit :). Youtube and pdfs. 
 
+### Aage Rafn
+According to chapter 6 from google books of this book, the core is about breaking the rhythm. A contemporary example is the [Federal Courthouse in Austin Texas](http://en.wikipedia.org/wiki/Austin,_Texas#mediaviewer/File:Federal_Courthouse,_Austin,_TX_IMG_6339.JPG)
+
+
 ### Rhythm of Venice
 In relation to the rhythm of venice I found [this sourced jan 9 2014](http://ocw.mit.edu/courses/architecture/4-111-introduction-to-architecture-environmental-design-spring-2014/readings/) to be interesting, it shows A A B A A | A B A patterns. I've never looked at facades that way before, but now it's pointed out -- sure, 
 
