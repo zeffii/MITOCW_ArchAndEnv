@@ -59,24 +59,29 @@ step 1.
 
 step 2. scale down a tenth
 
-I'm going to skip this, because it will be rendered in a unitless scenario. But i will pick angles at random from the selection. Here's a python representation of that. (As you can see it would be trivial to add a /10 step.)
+Because it will be rendered in a unitless scenario scaling may be useless. But I will pick angles at random from the selection. Here's a python representation of that. Seed added just in case.
 
 ```python
+from random import random, seed
+
 measurements = [
-  [18.1, 90],
-  [51.0, 130],
-  [56.0, 30],
-  [58.0, 100],
-  [32.0, 180],
-  [32.0, 130],
-  [8.0, 180],
-  [4.7, 120],
-  [2.8, 70],
-  [2.3, 60]
+    [18.1, 90],
+    [51.0, 130],
+    [56.0, 30],
+    [58.0, 100],
+    [32.0, 180],
+    [32.0, 130],
+    [8.0, 180],
+    [4.7, 120],
+    [2.8, 70],
+    [2.3, 60]
 ]
 
-for m in measurements:
-    stuff()
+seed(20)
+
+for length, angle in measurements:
+    print(length, round(random()*angle, 2))
+
 ```
 
 
