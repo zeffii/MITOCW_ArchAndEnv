@@ -8,16 +8,16 @@ The reading list has titles, i'll focus on what can be read for free and legit :
 
 The excerpt from this book is how I wish all books on abstract material were. Comfortable. 
 
-**Aage Rafn** 
+- **Aage Rafn** 
 According to chapter 6 from the google books preview of this book, the core is about creating and breaking a rhythm. A contemporary example is the [Federal Courthouse in Austin Texas](http://en.wikipedia.org/wiki/Austin,_Texas#mediaviewer/File:Federal_Courthouse,_Austin,_TX_IMG_6339.JPG). When everything has rhythm the un-rhythmic stands out, when everything is without rhythm, then the rhythmic highlights itself.
 
-**Alvar Aalto**
+- **Alvar Aalto**
 Neat buildings, reminds me of Sant'Elia
 
-**Gunmar Asplund**
+- **Gunmar Asplund**
 Ratios and Scale, thin and wide
 
-**Ib Lunding** cement, walls textured by the grain of the planks of wood used to form their shape when poured.
+- **Ib Lunding** cement, walls textured by the grain of the planks of wood used to form their shape when poured.
 
 A question arrises about how structurally sound something is perceived by the finish on its surface, a pilar that looks fluffy or sandy (velvet) may appear less strong than a tight smooth fine surface (marble polished)
 
