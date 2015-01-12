@@ -141,6 +141,7 @@ this outputs two lists, one of lengts the other of an angle.
 This outputs without the first stalk (base from the ground). 
 ![Image to indicate interim](https://cloud.githubusercontent.com/assets/619340/5706030/d6dd63f8-9a7d-11e4-9be2-a2402a89f0fd.png)
 
+An interesting result is that the first and last point seem to end up very close to eachother, no matter what seed value.
 
 
 
