@@ -37,6 +37,8 @@ Also https://www.youtube.com/watch?v=hv7ipQdUrYk (House) is pleasant
 
 ### Exercise 1.1 PDF
 
+#### 1
+
 [MIT4_111S14_Assignment_1.1.pdf](http://ocw.mit.edu/courses/architecture/4-111-introduction-to-architecture-environmental-design-spring-2014/assignments/MIT4_111S14_Assignment_1.1.pdf)
 
 check it out, entry 10 is Distal Phalange on pinky finger. 1 is Ossa Tarsi. Measurements are all distances to the next bone. Smaller measurements tend to be more exact because it becomes easier to decide the extremes.
@@ -84,7 +86,10 @@ for length, angle in measurements:
 
 ```
 
+#### 2
 
+starting with a vertical line up then take consecutive lines clockwise, off the tangent of the previous line.
+Time to hit Sverchok, it's more work than drawing - hopefully with interesting results - Else I will coerce it.
 
 
 
