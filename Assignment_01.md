@@ -16,7 +16,7 @@ The reading list has titles, i'll focus on what can be read for free and legit :
   - **Gunmar Asplund**
   Ratios and Scale, thin and wide
 
-  - **Ib Lunding** cement, walls textured by the grain of the planks of wood used to form their shape when poured.
+  - **Ib Lunding** cement, walls textured by the grain of the planks of wood used to form their shape when poured. Rather than sanding it down the texture is preserved and acts as a reminder about how it was constructed. I first noticed this kind of detail in a hospital stairwell, it felt a little out of place even unfinished.
 
   A question arrises about how structurally sound something is perceived by the finish on its surface, a pilar that looks fluffy or sandy (velvet) may appear less strong than a tight smooth fine surface (marble polished)
 
