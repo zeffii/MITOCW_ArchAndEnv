@@ -145,5 +145,7 @@ An interesting result is that the first and last point seem to end up very close
 
 ![Img SRC drafsight](https://cloud.githubusercontent.com/assets/619340/5712437/b8711f38-9ab2-11e4-9912-97c3942580af.png)
 
+Settle on this seed, and Bake it directly to mesh for shading.
 
+![imgur](https://cloud.githubusercontent.com/assets/619340/5712989/49a64858-9ab7-11e4-9ae2-830f55de4cfa.png)
 
