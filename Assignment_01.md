@@ -95,7 +95,7 @@ In sverchok the ScriptNode MK1 script might look like this
 ```Python
 from random import random, seed
 
-def obtain_values(seed_val):
+def obtain_values(scale, seed_val):
     measurements = [
         [18.1, 90],
         [51.0, 130],
@@ -110,16 +110,16 @@ def obtain_values(seed_val):
     ]
 
     seed(seed_val)
-    convertor = lambda l, a: (l/10, round(random()*a, 2))
+    convertor = lambda l, a: (l/scale, round(random()*a, 2))
     return [convertor(*vals) for vals in measurements]
 
 
-def sv_main(edges=1.0, seed_val=20):
+def sv_main(scale=1.0, seed_val=20):
     lengths_out = []
     angles_out = []
 
     in_sockets = [
-        ['s', 'scale', edges],
+        ['s', 'scale', scale],
         ['s', 'seed', seed_val]
     ]
 
@@ -128,12 +128,13 @@ def sv_main(edges=1.0, seed_val=20):
         ['s', 'angles', angles_out]
     ]
     
-    measures = obtain_values(seed_val)
+    measures = obtain_values(scale, seed_val)
     for l, a in measures:
         lengths_out.append(l)
         angles_out.append(a)
     
     return in_sockets, out_sockets
+
 ```
 this outputs two lists, one of lengts the other of an angle.
 
