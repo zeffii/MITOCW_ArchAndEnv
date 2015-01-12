@@ -91,7 +91,52 @@ for length, angle in measurements:
 starting with a vertical line up then take consecutive lines clockwise, off the tangent of the previous line.
 Time to hit Sverchok, it's more work than drawing - hopefully with interesting results - Else I will coerce it.
 
+In sverchok the ScriptNode MK1 script might look like this
 
+```Python
+from random import random, seed
+
+def obtain_values(seed_val):
+    measurements = [
+        [18.1, 90],
+        [51.0, 130],
+        [56.0, 30],
+        [58.0, 100],
+        [32.0, 180],
+        [32.0, 130],
+        [8.0, 180],
+        [4.7, 120],
+        [2.8, 70],
+        [2.3, 60]
+    ]
+
+    seed(seed_val)
+    convertor = lambda l, a: (l/10, round(random()*a, 2))
+    return [convertor(*vals) for vals in measurements]
+
+
+def sv_main(edges=1.0, seed_val=20):
+    lengths_out = []
+    angles_out = []
+
+    in_sockets = [
+        ['s', 'scale', edges],
+        ['s', 'seed', seed_val]
+    ]
+
+    out_sockets = [
+        ['s', 'lengths', lengths_out],
+        ['s', 'angles', angles_out]
+    ]
+    
+    measures = obtain_values(seed_val)
+    for l, a in measures:
+        lengths_out.append(l)
+        angles_out.append(a)
+    
+    return in_sockets, out_sockets
+```
+this outputs two lists, one of lengts the other of an angle.
 
 
 
