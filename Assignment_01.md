@@ -6,7 +6,7 @@ The reading list has titles, i'll focus on what can be read for free and legit :
 
 #### Experiencing Architecture
 
-The excerpt from this book is how I wish all books on abstract material were. Comfortable. 
+The excerpt from this book is how I wish all books on abstract material were. Comfortable and pleasurable to read. 
 
 - **Aage Rafn** 
 According to chapter 6 from the google books preview of this book, the core is about creating and breaking a rhythm. A contemporary example is the [Federal Courthouse in Austin Texas](http://en.wikipedia.org/wiki/Austin,_Texas#mediaviewer/File:Federal_Courthouse,_Austin,_TX_IMG_6339.JPG). When everything has rhythm the un-rhythmic stands out, when everything is without rhythm, then the rhythmic highlights itself.
