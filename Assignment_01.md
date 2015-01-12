@@ -143,7 +143,7 @@ This outputs without the first stalk (base from the ground).
 
 An interesting result is that the first and last point seem to end up very close to eachother, no matter what seed value.
 
-
+![Img SRC drafsight](https://cloud.githubusercontent.com/assets/619340/5712437/b8711f38-9ab2-11e4-9912-97c3942580af.png)
 
 
 
