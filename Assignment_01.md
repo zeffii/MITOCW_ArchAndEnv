@@ -138,14 +138,9 @@ def sv_main(scale=1.0, seed_val=20):
 ```
 this outputs two lists, one of lengts the other of an angle.
 
-This outputs without the first stalk (base from the ground). 
-![Image to indicate interim](https://cloud.githubusercontent.com/assets/619340/5706030/d6dd63f8-9a7d-11e4-9be2-a2402a89f0fd.png)
-
-An interesting result is that the first and last point seem to end up very close to eachother, no matter what seed value.
-
+An interesting result is that the first and last point seem to end up very close to eachother, no matter what seed value. 
 ![Img SRC drafsight](https://cloud.githubusercontent.com/assets/619340/5712437/b8711f38-9ab2-11e4-9912-97c3942580af.png)
 
 Settle on this seed, and Bake it directly to mesh for shading.
-
 ![imgur](https://cloud.githubusercontent.com/assets/619340/5712989/49a64858-9ab7-11e4-9ae2-830f55de4cfa.png)
 
