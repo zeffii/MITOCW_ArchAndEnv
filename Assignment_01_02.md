@@ -20,7 +20,7 @@ I went ahead and did a rendering of what it might look like once I have a node t
 
 Something like this, can become through shadows (all rendered with geometry hidden to the camera)
 ![something like this](https://cloud.githubusercontent.com/assets/619340/5722644/3bc3dde0-9b3e-11e4-8670-9dbc61d58823.png) turns into this:
-![unt_shadow_image](https://cloud.githubusercontent.com/assets/619340/5729739/f83f38b2-9b74-11e4-8b63-682dbda7b2e0.png)
+![image](https://cloud.githubusercontent.com/assets/619340/5731085/081b9446-9b80-11e4-8a70-a5dae595a184.png)
 
 I would like to pick a different set of random values while still following the word of the brief as far as possible. It is possible through parametericism to iterate through versions and track their seeds, untill I find a couple of versions that stand out. Then pick one.
 
