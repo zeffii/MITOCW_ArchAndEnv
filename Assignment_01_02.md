@@ -33,3 +33,5 @@ I would like to pick a different set of random values while still following the 
 With tentative _beta_ code code now written for the Sverchok Curve Node it is possible to generate a renderable curve from a sequence of vectors. This speeds up iteration and I can focus on aesthetics. This gif shows only the geometry before shadow rendering.
 ![totes images!](https://cloud.githubusercontent.com/assets/619340/5740560/d579cfd2-9c04-11e4-9add-ad973d5d8eea.gif)
 
+Render settings applied led to this:
+![imt]( https://cloud.githubusercontent.com/assets/619340/5742924/ee44f012-9c15-11e4-8dc8-d302dc0af558.png)
