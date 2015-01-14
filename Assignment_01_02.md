@@ -30,6 +30,6 @@ all shadows rendered with geometry hidden to the camera, the line thickness is d
 
 I would like to pick a different set of random values while still following the word of the brief as far as possible. It is possible through parametericism to iterate through versions and track their seeds, untill I find a couple of versions that stand out. Then pick one.
 
-With the Sverchok Curve Node now written the most tentative BETA code makes it possible to generate a renderable curve from a sequence of vectors. Now iteration is much quicer and I can focus on aesthetics. This gif shows only the geometry before shadow rendering.
+With the Sverchok Curve Node now written the most tentative _beta_ code makes it possible to generate a renderable curve from a sequence of vectors. Now iteration is much quicer and I can focus on aesthetics. This gif shows only the geometry before shadow rendering.
 ![totes images!](https://cloud.githubusercontent.com/assets/619340/5740560/d579cfd2-9c04-11e4-9add-ad973d5d8eea.gif)
 
