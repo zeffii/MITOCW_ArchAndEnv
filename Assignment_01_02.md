@@ -20,6 +20,7 @@ The first multi-shadow rendering below shows a mesh manually converted to Curves
 
 Something like this silhouette:  
 ![something like this](https://cloud.githubusercontent.com/assets/619340/5722644/3bc3dde0-9b3e-11e4-8670-9dbc61d58823.png) 
+
 with 3 duplications and offsets can become: 
 
 ![image](https://cloud.githubusercontent.com/assets/619340/5731085/081b9446-9b80-11e4-8a70-a5dae595a184.png)
